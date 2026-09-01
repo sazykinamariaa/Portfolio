@@ -70,4 +70,4 @@
 
 ---
 
-*НИУ ВШЭ, Москва · sazykinamariaa@github*
+*НИУ ВШЭ, Москва · mvsazykina@edu.hse.ru*
