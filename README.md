@@ -61,7 +61,7 @@
 - Выявила 9 сотрудников ниже минимума — приоритет на повышение
 - Распределила бюджет в два приоритета: 56 сотрудников получили повышение, остаток 194 000 руб. зарезервирован
 
-**Файлы:** `Sazykina_Maria_CBBA_test.ipynb`, `HR_analysis_budget.xlsx`
+**Файлы:** `HR_salary_analysis.ipynb`, `HR_analysis_budget.xlsx`
 
 **Презентация:** [Google Slides](https://docs.google.com/presentation/d/1wZzYkTXP47OsoAtD9YjJdaI7al4ULSZMosPpog14sAQ)
 
