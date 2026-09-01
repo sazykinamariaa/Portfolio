@@ -72,7 +72,7 @@
 | Инструмент | Уровень |
 |-----------|---------|
 | SQL | Уверенный (JOIN, подзапросы, агрегаты, GROUP BY/HAVING)
-| Python / pandas | Базовый (pandas, matplotlib, EDA, чистка данных, statsmodels) |
+| Python / pandas | Средний (pandas, matplotlib, EDA, чистка данных, statsmodels) |
 | Excel | Продвинутый (сводные, Power Query, ПРОСМОТРX, СУММЕСЛИМН) |
 | BPMN 2.0 | Базовый (пулы, дорожки, шлюзы, события) |
 
