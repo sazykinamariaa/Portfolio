@@ -85,4 +85,4 @@
 
 ---
 
-*НИУ ВШЭ, Москва · mvsazykina@edu.hse.ru*
+*НИУ ВШЭ, Москва · mvsazykina@edu.hse.ru · Telegram: @mrrrsaz*
