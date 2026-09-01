@@ -56,7 +56,7 @@
 - Распределила бюджет в два приоритета: 56 сотрудников получили повышение, остаток 194 000 руб. зарезервирован
 
 **Файл:** [Sazykina_Maria_CBBA_test.ipynb](./Sazykina_Maria_CBBA_test.ipynb)
-
+**Презентация:** [Google Slides](https://docs.google.com/presentation/d/1wZzYkTXP47OsoAtD9YjJdaI7al4ULSZMosPpog14sAQ/edit?usp=sharing)
 ---
 
 ## Навыки
