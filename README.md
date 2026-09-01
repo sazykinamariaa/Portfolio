@@ -39,8 +39,7 @@
 **Инструменты:** Excel, Power Query, СУММЕСЛИМН, ПРОСМОТРX, сводные таблицы  
 **Данные:** 98 сделок, 15 менеджеров, 4 отдела, 2024 г.  
 **Что сделано:** анализ по отделам, товарам и динамике продаж, рейтинг менеджеров, финансово-аналитическая справка с выводами и рекомендациями  
-**Файл:** [Данные_продажи.xlsx](./Данные_продажи.xlsx)
-
+**Файл:** `Данные_продажи.xlsx`
 ---
 
 ## Проект 4 — Анализ HR-данных и распределение бюджета на повышения
@@ -55,8 +54,8 @@
 - Выявила 9 сотрудников ниже минимума — приоритет на повышение
 - Распределила бюджет в два приоритета: 56 сотрудников получили повышение, остаток 194 000 руб. зарезервирован
 
-**Файл:** [Sazykina_Maria_CBBA_test.ipynb](./Sazykina_Maria_CBBA_test.ipynb)
-**Презентация:** [Google Slides](https://docs.google.com/presentation/d/1wZzYkTXP47OsoAtD9YjJdaI7al4ULSZMosPpog14sAQ/edit?usp=sharing)
+**Файлы:** `Sazykina_Maria_CBBA_test.ipynb`, `HR_analysis_budget.xlsx`  
+**Презентация:** [Google Slides](https://docs.google.com/presentation/d/1wZzYkTXP47OsoAtD9YjJdaI7al4ULSZMosPpog14sAQ)
 ---
 
 ## Навыки
